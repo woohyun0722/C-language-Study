@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250710_Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D251CE8A-9033-43F3-A683-26577B6B18EF}|20250710_Proj01\\20250710_Proj01.vcxproj|C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250710_Sol\\20250710_Proj01\\20250710_Proj01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D251CE8A-9033-43F3-A683-26577B6B18EF}|20250710_Proj01\\20250710_Proj01.vcxproj|solutionrelative:20250710_Proj01\\20250710_Proj01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12E9006-D91C-4CCF-8721-411D97AF84DA}|20250710_Proj02\\20250710_Proj02.vcxproj|C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250710_Sol\\20250710_Proj02\\20250710_Proj02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A12E9006-D91C-4CCF-8721-411D97AF84DA}|20250710_Proj02\\20250710_Proj02.vcxproj|solutionrelative:20250710_Proj02\\20250710_Proj02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250710_Proj02.c",
+              "DocumentMoniker": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250710_Sol\\20250710_Proj02\\20250710_Proj02.c",
+              "RelativeDocumentMoniker": "20250710_Proj02\\20250710_Proj02.c",
+              "ToolTip": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250710_Sol\\20250710_Proj02\\20250710_Proj02.c",
+              "RelativeToolTip": "20250710_Proj02\\20250710_Proj02.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-10T12:16:54.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250710_Proj01.c",
+              "DocumentMoniker": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250710_Sol\\20250710_Proj01\\20250710_Proj01.c",
+              "RelativeDocumentMoniker": "20250710_Proj01\\20250710_Proj01.c",
+              "ToolTip": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250710_Sol\\20250710_Proj01\\20250710_Proj01.c",
+              "RelativeToolTip": "20250710_Proj01\\20250710_Proj01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-10T11:20:10.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
