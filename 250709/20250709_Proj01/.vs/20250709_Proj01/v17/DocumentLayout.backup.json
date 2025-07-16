@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEE6B87-72F6-4929-9AF8-520316AA52AF}|20250709_Proj02\\20250709_Proj02.vcxproj|C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\20250709_Proj02\\20250709_Proj02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AEE6B87-72F6-4929-9AF8-520316AA52AF}|20250709_Proj02\\20250709_Proj02.vcxproj|solutionrelative:20250709_Proj02\\20250709_Proj02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2209E2-6A08-4B61-838B-42F683E8C705}|20250709_Proj01\\20250709_Proj01.vcxproj|C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\20250709_Proj01\\20250709_Proj01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD2209E2-6A08-4B61-838B-42F683E8C705}|20250709_Proj01\\20250709_Proj01.vcxproj|solutionrelative:20250709_Proj01\\20250709_Proj01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDF8B98-BD27-4C06-B0D5-20B0685188C5}|250709_Proj03\\250709_Proj03.vcxproj|C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\250709_Proj03\\20250709_Proj03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EDF8B98-BD27-4C06-B0D5-20B0685188C5}|250709_Proj03\\250709_Proj03.vcxproj|solutionrelative:250709_Proj03\\20250709_Proj03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250709_Proj01.c",
+              "DocumentMoniker": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\20250709_Proj01\\20250709_Proj01.c",
+              "RelativeDocumentMoniker": "20250709_Proj01\\20250709_Proj01.c",
+              "ToolTip": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\20250709_Proj01\\20250709_Proj01.c",
+              "RelativeToolTip": "20250709_Proj01\\20250709_Proj01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-09T11:06:11.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250709_Proj03.c",
+              "DocumentMoniker": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\250709_Proj03\\20250709_Proj03.c",
+              "RelativeDocumentMoniker": "250709_Proj03\\20250709_Proj03.c",
+              "ToolTip": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\250709_Proj03\\20250709_Proj03.c",
+              "RelativeToolTip": "250709_Proj03\\20250709_Proj03.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-09T11:51:24.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250709_Proj02.c",
+              "DocumentMoniker": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\20250709_Proj02\\20250709_Proj02.c",
+              "RelativeDocumentMoniker": "20250709_Proj02\\20250709_Proj02.c",
+              "ToolTip": "C:\\Users\\simul\\OneDrive\\\uBB38\uC11C\\250709\\20250709_Proj01\\20250709_Proj02\\20250709_Proj02.c*",
+              "RelativeToolTip": "20250709_Proj02\\20250709_Proj02.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-09T11:25:41.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

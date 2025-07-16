@@ -1,0 +1,6 @@
+﻿  20250714_Proj02.c
+C:\문서\C\250714\20250714_Sol\20250714_Proj02\20250714_Proj02.c(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+      C:\문서\C\250714\20250714_Sol\20250714_Proj02\20250714_Proj02.c(1,9):
+      이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  
+  20250714_Proj02.vcxproj -> C:\Users\simul\OneDrive\문서\250709\20250714_Sol\x64\Debug\20250714_Proj02.exe
